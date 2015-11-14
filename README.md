@@ -11,3 +11,12 @@ This program relies on Java Native Access which controls the auto-typing feature
 
 ### Usage
 To use, simply compile and export as a jar. You will need to add a words.txt file inside the main directory of the jar to make sure the program doesn't throw any errors. You will also need to add a "lib" directory inside the main directory of the jar and place the jna jars inside of lib.
+
+### Download
+You can download a copy of the program on mediafire [here](http://www.mediafire.com/download/03zbwyxr314cpue/DrawMyThing.jar). Place it in its own folder, and start it up in the terminal. It comes with a dictionary of words pulled from the actual game.
+
+Verify your download with SHA1:
+
+```
+ab1daf763cde8a0e2ef46b2455eceb1c3f28785e
+```

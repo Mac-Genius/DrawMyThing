@@ -7,7 +7,7 @@ Minecraft's window to another program's window, it will automatically
 stop auto-typing.
 
 ### Dependencies
-This program relies on Java Native Access which controls the auto-typing feature. You will need to download them [here](https://github.com/java-native-access/jna#readme). You will need jna.jar and jna-platform.jar.
+This program relies on Java Native Access which controls the auto-typing feature. You will need to download them [here](https://github.com/java-native-access/jna#readme) if you are planning on compiling the project yourself. You will need jna.jar and jna-platform.jar.
 
 ### Usage
 To use, simply compile and export as a jar. You will need to add a words.txt file inside the main directory of the jar to make sure the program doesn't throw any errors. You will also need to add a "lib" directory inside the main directory of the jar and place the jna jars inside of lib.

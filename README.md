@@ -14,9 +14,3 @@ To use, simply compile and export as a jar. You will need to add a words.txt fil
 
 ### Download
 You can download a copy of the program on mediafire [here](http://www.mediafire.com/download/03zbwyxr314cpue/DrawMyThing.jar). Place it in its own folder, and start it up in the terminal. It comes with a dictionary of words pulled from the actual game.
-
-Verify your download with SHA1:
-
-```
-ab1daf763cde8a0e2ef46b2455eceb1c3f28785e
-```

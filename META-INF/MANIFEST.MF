@@ -1,4 +1,5 @@
 Manifest-Version: 1.0
-Class-Path: lib/jna-4.2.1.jar lib/jna-platform-4.2.1.jar
-Main-Class: io.github.mac_genius.drawmything.Main
+Class-Path: lib/gson-2.6.2.jar lib/jna-4.2.1.jar lib/jna-platform-4.2.
+ 1.jar lib/org.apache.felix.karaf.shell.console-1.0.0.jar
+Main-Class: io.github.mac_genius.drawmything.DrawMyThing
 

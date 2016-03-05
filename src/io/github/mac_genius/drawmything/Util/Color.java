@@ -1,4 +1,4 @@
-package io.github.mac_genius.drawmything.Uti;
+package io.github.mac_genius.drawmything.Util;
 
 /**
  * Created by Mac on 11/11/2015.

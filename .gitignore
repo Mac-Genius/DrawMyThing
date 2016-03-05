@@ -45,5 +45,7 @@ Temporary Items
 # Custom
 .idea
 *.txt
+*.json
 *.iml
 out
+*.jar
